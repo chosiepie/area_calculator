@@ -1,4 +1,4 @@
-# Shape Area Aalculator
+# Shape Area Calculator
 The Shape Area Calculator is a simple Java program that calculates the area of different shapes (Round, Rectangle, Square, Triangle) based on user input.
 
 ## User Flow
